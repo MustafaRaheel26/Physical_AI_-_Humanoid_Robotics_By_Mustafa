@@ -1,11 +1,11 @@
 .custom-footer {
   padding: 3rem 4rem;
-  background: #f5f4f9; /* light background */
-  color: #1a1a1a; /* dark text */
+  background: #e0f7fa; /* light teal background */
+  color: #004d40; /* dark teal text */
   display: flex;
   flex-direction: column;
   gap: 2rem;
-  border-top: 4px solid #5d0fb4; /* dark purple accent */
+  border-top: 4px solid #ff7043; /* orange accent */
   border-radius: 10px 10px 0 0;
 }
 
@@ -22,7 +22,7 @@
   margin-bottom: 1rem;
   font-size: 1.3rem;
   font-weight: 700;
-  color: #2c2c2c;
+  color: #00796b; /* dark teal */
   letter-spacing: 0.5px;
 }
 
@@ -30,7 +30,7 @@
 .footer-paragraph {
   max-width: 450px;
   line-height: 1.7;
-  color: #4a4a4a;
+  color: #004d40; /* dark teal text */
   font-size: 0.95rem;
 }
 
@@ -49,11 +49,11 @@
   text-decoration: none;
   transition: all 0.3s ease;
   border-radius: 8px;
-  background: rgba(93, 15, 180, 0.08); /* light purple background */
+  background: rgba(255, 112, 67, 0.08); /* light orange background */
 }
 
 .social-icon:hover {
-  background: rgba(93, 15, 180, 0.25);
+  background: rgba(255, 112, 67, 0.25);
   transform: translateX(5px);
 }
 
@@ -62,7 +62,7 @@
   min-width: 40px;
   height: 40px;
   border-radius: 50%;
-  background: #5d0fb4; /* dark purple */
+  background: #ff7043; /* orange accent */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -74,7 +74,7 @@
 /* Icon Label */
 .foot-icon-name {
   font-size: 1.05rem;
-  color: #1a1a1a; /* dark text */
+  color: #004d40; /* dark teal text */
   font-weight: 500;
 }
 
@@ -82,7 +82,7 @@
 .footer-divider {
   margin: 1.5rem 0;
   height: 1px;
-  background: #d1d1d1;
+  background: #b2dfdb; /* light teal divider */
   border: none;
 }
 
@@ -90,7 +90,7 @@
 .footer-bottom {
   text-align: center;
   font-size: 0.9rem;
-  color: #4a4a4a;
+  color: #004d40;
   letter-spacing: 0.5px;
 }
 

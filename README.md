@@ -1,80 +1,69 @@
-# Physical AI & Humanoid Robotics Textbook
-
-![Project Banner](/display.PNG)
+# Physical AI & Humanoid Robotics Textbook by Mustafa Raheel
 
 ## Overview
 
-This project is a comprehensive textbook for teaching **Physical AI & Humanoid Robotics**, created using:
+Welcome to the **Physical AI & Humanoid Robotics Textbook**, a modern, interactive online resource for learning **embodied AI and humanoid robotics**. This textbook combines cutting-edge AI, robotics simulation, and practical development to bridge the gap between theory and real-world applications.  
 
-- **Claude Code** – AI-assisted writing  
-- **Spec-Kit Plus** – Specification-driven book creation  
-- **MCP Cortex 7** – Modular content planning & management  
-- **Docusaurus** – Documentation framework  
-- **Mermaid** – Flowchart and diagram generation  
-
-The book bridges the gap between digital AI models and physical robots, teaching students how to simulate, control, and deploy humanoid robots for real-world tasks.
+Built with **Docusaurus**, the textbook offers a fully navigable and modular learning experience hosted online for easy access.
 
 ---
 
-## What This Book Covers
+## Key Features
 
-This textbook introduces **Physical AI** and embodied intelligence. It covers:
-
-- Robotic control using **ROS 2**  
-- Simulation of humanoid robots in **Gazebo** and **Unity**  
-- Advanced AI perception with **NVIDIA Isaac™**  
-- Integration of **LLMs** and voice commands for autonomous robots  
-- Capstone project: building an autonomous humanoid capable of perception, planning, and interaction  
+- **Interactive Online Book:** Navigate lessons, modules, and examples easily.  
+- **Hands-on Robotics:** Learn to simulate and control humanoid robots.  
+- **AI Integration:** Explore AI perception, LLMs, and voice-controlled robotics.  
+- **Modular Design:** Easy to update and extend with a clear content structure.  
+- **Flowcharts & Diagrams:** Visualize concepts using Mermaid integration.  
 
 ---
 
-## Why Physical AI Matters
+## What You Will Learn
 
-Humanoid robots are designed to operate in human-centered environments. By combining AI with physical embodiment, students learn to apply AI beyond digital simulations and into real-world robotic applications.
+By working through this textbook, you will gain skills in:
 
----
-
-## Learning Outcomes
-
-By completing this textbook, students will be able to:
-
-- Understand Physical AI principles and embodied intelligence  
-- Control robots using ROS 2  
-- Simulate humanoid robots with Gazebo and Unity  
-- Develop with NVIDIA Isaac AI robotics platform  
-- Design humanoid robots for natural interactions  
-- Use GPT models for conversational robotics  
+- **Physical AI & Embodied Intelligence** principles  
+- **ROS 2** for robot control and simulation  
+- **Humanoid Robot Simulation** in Gazebo and Unity  
+- **NVIDIA Isaac™ AI platform** for robotics perception  
+- **Integrating LLMs and voice commands** for autonomous behavior  
+- **Designing interactive humanoid robots**  
 
 ---
 
-## Special Features
+## Why This Textbook is Unique
 
-- **Interactive Docusaurus Book:** Fully navigable online textbook hosted on **Vercel**  
-- **Spec-Kit Plus Integration:** Ensures clear and consistent specification-driven content  
-- **Modular MCP Cortex 7:** Organize content for easy updates and extensions  
+Humanoid robots operate in **human-centered environments**. This book emphasizes applying AI **beyond simulations**, giving students real-world robotics experience.  
+
+It combines:  
+
+- **Specification-driven content** for clarity  
+- **Modular structure** for flexibility  
+- **Interactive learning** via Docusaurus online textbook  
 
 ---
 
 ## Tech Stack
 
-- **Docusaurus** – Documentation framework  
-- **Spec-Kit Plus** – Specification-driven book creation  
-- **Claude Code** – AI-assisted content writing  
-- **MCP Cortex 7** – Modular content management  
-- **Mermaid** – Diagrams and flowcharts  
-
----
-
-## Languages Used
-
-- **TypeScript** – Primary programming language for Docusaurus components  
+- **Docusaurus** – Documentation framework for the book  
 - **React** – UI framework for interactive components  
-- **Markdown** – For content writing and documentation  
+- **TypeScript** – For component scripting  
+- **Mermaid** – For diagrams and flowcharts  
+- **Markdown** – For writing structured content  
 
 ---
 
 ## Deployment
 
-The textbook is deployed using **Vercel**. You can access the live version here:[ physical-ai-humanoid-robotics-book-mpd9s80be.vercel.app](https://physical-ai-humanoid-robotics-book-steel.vercel.app/)
+The textbook is deployed online using **Vercel**.  
 
-"# Physical_AI_-_Humanoid_Robotics_By_Mustafa" 
+**Live site:** [https://physical-ai-humanoid-robotics-by-mu.vercel.app](https://physical-ai-humanoid-robotics-by-mu.vercel.app)  
+**GitHub repository:** [https://github.com/MustafaRaheel26/Physical_AI_-_Humanoid_Robotics_By_Mustafa.git](https://github.com/MustafaRaheel26/Physical_AI_-_Humanoid_Robotics_By_Mustafa.git)  
+
+---
+
+## Getting Started
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/MustafaRaheel26/Physical_AI_-_Humanoid_Robotics_By_Mustafa.git
